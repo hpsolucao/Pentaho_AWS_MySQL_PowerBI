@@ -1,4 +1,4 @@
-## Pentaho AWS MySQL PowerBI
+## Pentaho + AWS  + MySQL + PowerBI
 Ingestão de Dados com Pentaho para o S3 (2 camadas Raw e Processed) Banco Mysql+Athena, Dashboard PowerBI
 
 O trabalho consiste em simular um ambiente de Data Lake com 2 camadas onde a ultima camada é o espelho do Banco de dados e Resultado final em um Dashboard desenvolvido em PowerBI
@@ -21,4 +21,10 @@ O trabalho consiste em simular um ambiente de Data Lake com 2 camadas onde a ult
 
 *Desenho do projeto:<br>
 ![Desenho do Projeto](Desenho_Projeto.jpg)
+<br>
+*Desenho do ELT DataLake S3 com Pentaho PDI:<br>
+![Desenho do Projeto](DataLake_ELT.jpg)
 
+<br>
+*Dashboard Resultado final com tendencia de vendas:<br>
+![Desenho do Projeto](dashboard_vendas.jpg)
