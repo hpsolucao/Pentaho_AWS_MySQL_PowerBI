@@ -24,7 +24,6 @@ O trabalho consiste em simular um ambiente de Data Lake com 2 camadas onde a ult
 <br>
 *Desenho do ELT DataLake S3 com Pentaho PDI:<br>
 ![ELT S3](DataLake_ELT.jpg)
-
 <br>
 *Dashboard Resultado final com tendencia de vendas:<br>
 ![Dashboard](dashboard_vendas.jpg)
