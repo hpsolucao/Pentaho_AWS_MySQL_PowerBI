@@ -23,8 +23,8 @@ O trabalho consiste em simular um ambiente de Data Lake com 2 camadas onde a ult
 ![Desenho do Projeto](Desenho_Projeto.jpg)
 <br>
 *Desenho do ELT DataLake S3 com Pentaho PDI:<br>
-![Desenho do Projeto](DataLake_ELT.jpg)
+![ELT S3](DataLake_ELT.jpg)
 
 <br>
 *Dashboard Resultado final com tendencia de vendas:<br>
-![Desenho do Projeto](dashboard_vendas.jpg)
+![Dashboard](dashboard_vendas.jpg)
